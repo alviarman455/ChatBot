@@ -109020,7 +109020,7 @@ m=J.b6(n.a,"token")
 j=A.bmi()
 o.b=j
 s=7
-return A.e(j.qJ("wss://virtualclassroom-h5abesn6.livekit.cloud",m),$async$rp)
+return A.e(j.qJ("wss://supabase-chat-1l593v8z.livekit.cloud",m),$async$rp)
 case 7:j=o.b.y
 k=j==null?null:j.Sr(!0)
 j=t.H1
