@@ -111538,7 +111538,7 @@ if(s!=null){r=A.eY(s.h(0,i))
 if(r==null)r=0
 s=A.eY(s.h(0,h))
 if(s==null)s=0
-l=l+r+s}}k=l*8/2048}else k=0
+l=l+r+s}}k=l*8/10240}else k=0
 j.sfk(j.f.aBZ(k,q))},
 l(){var s=this.w
 if(s!=null)s.ak()
@@ -111616,7 +111616,7 @@ s.y8()
 s.NG()},
 $S:52}
 A.aw0.prototype={
-$1(a){return B.e.ci(this.a.ej(a.a).a,1e6)<=2},
+$1(a){return B.e.ci(this.a.ej(a.a).a,1e6)<=10},
 $S:153}
 A.avY.prototype={
 $1(a){return A.boW(B.V.nE(a,null))},
